@@ -4,13 +4,13 @@ from colorama import init, Fore
 
 init()
 DefaultConfig = {
-    "port": "9125",
+    "port": "2252",
     "host": "0.0.0.0",
     "debug": False,
-    "ServerID" : "",
-    "ClientID" : "",
+    "ServerID" : "904047180912947250",
+    "ClientID" : "911320279257587742",
     "ClientSecret" : "",
-    "RedirectURL" : "",
+    "RedirectURL" : "https://discord.redstar.moe/callback",
     "BotToken" : ""
 }
 
